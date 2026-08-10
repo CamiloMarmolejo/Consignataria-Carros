@@ -1,13 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package umariana.consignataria;
-
-/**
- *
- * @author marmota
- */
 import java.util.Scanner;
         
 public class Consignataria {
